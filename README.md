@@ -12,3 +12,5 @@ What has been done:
 - Added **backend**
 - Set up **hosting** on GitHub
 - Polished up repository page: added description, links, tags, readme.
+
+The result can be seen [here](https://xqzmesir.github.io/website-for-selling-cookies/).
