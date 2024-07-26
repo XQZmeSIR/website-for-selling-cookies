@@ -1,4 +1,4 @@
-# Cookies shop
+# Cookies shop 🍪
 Fully completed web-site for selling cookies of any type. 
 
 I did this project while learning Frontend in ITlogia online school.
